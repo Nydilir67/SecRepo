@@ -10,5 +10,11 @@ There is no Release yet
 0.1v
 0.2v
 
+# Skils 
+## Claude 
+arguments: high Performence
+## ChatGPT 
+arguments : low performence
+
 # Contribution
 from Abdalluh Rahman
