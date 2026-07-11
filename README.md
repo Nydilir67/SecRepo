@@ -7,8 +7,8 @@ for Educationcal Reasons
 # Releases 
 There is no Release yet 
 # Versions
-0.1v
-0.2v
+0.1vpreAlpha
+0.1.5
 
 # Skils 
 ## Claude 
